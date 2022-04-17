@@ -1,9 +1,9 @@
-Take a letter
+Take a string
 
-Change it to a number using the table
+Change every letter to a number using the table
 
-Raise the number to the power of 3  =>  y
+Raise every number to the power of 3  =>  y
 
-Divide  y by 29 and get the rest  =>  z
+Divide every y by 29 and get the rest  =>  z
 
-Look for z in the table and return the corresponding letter
+Look for every z in the table and return the corresponding letter
