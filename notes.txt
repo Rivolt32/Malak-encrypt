@@ -1,0 +1,9 @@
+Take a letter
+
+Change it to a number using the table
+
+Raise the number to the power of 3  =>  y
+
+Divide  y by 29 and get the rest  =>  z
+
+Look for z in the table and return the corresponding letter
